@@ -1,2 +1,3 @@
 # hello-world
-this is a hello world.
+hi,everybody!
+I am  student.I love GitHub.
